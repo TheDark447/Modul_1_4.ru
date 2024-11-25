@@ -1,0 +1,6 @@
+MyString = input("Рандомный текст: ")
+print(MyString.upper())
+print(MyString.lower())
+print(MyString.replace(" ",""))
+print(MyString[0])
+print(MyString[16])
